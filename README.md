@@ -12,8 +12,8 @@ This repository contains various data visualization projects created using Pytho
 - Matplotlib
 - Seaborn
 - Plotly
-- Tableau (Optional for more interactive visualizations)
-
+- Tableau
+  
 ## How to Run:
 Clone the repository:
 ```bash
